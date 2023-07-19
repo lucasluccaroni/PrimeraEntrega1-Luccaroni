@@ -26,7 +26,7 @@ if(isNaN(valorMinimo) == false && isNaN(valorMaximo) == false && valorMinimo != 
         alert(`la suma de todos los numeros pares da ${sumaPar}`);
     
     }else if(numeroDeIteraciones % 2 != 0){
-        alert(`${numeroDeIteraciones} es IMpar`);
+        alert(`${numeroDeIteraciones} es impar`);
         alert(`la suma de todos los numeros impares da ${sumarImpar}`);
     }
 }else{
